@@ -1,0 +1,21 @@
+.caja{
+	background: #FFFFFF;
+	border:1px solid #CCCCCC;
+	width: 600PX;
+}
+
+.bloque1 {
+	background: #FFFF00;
+	width: 150px;
+	height: 100px;
+}
+.bloque2{
+	background: #3A81BA;
+	width: 150px;
+	height: 100px;
+}
+.bloque3{
+	background: #ED2251;
+	width: 150px;
+	height: 100px;
+}
